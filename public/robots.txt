@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://midhudsonfixandflip.loansapp.cfd/sitemap.xml
